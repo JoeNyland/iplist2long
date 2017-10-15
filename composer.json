@@ -15,6 +15,7 @@
         }
     ],
     "autoload": {
-        "files": ["src/iplist2long.php"]
+        "files": ["src/iplist2long.php"],
+        "psr-4": { "Controller\\": "src/Controller/" }
     }
 }
