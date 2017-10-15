@@ -3,6 +3,7 @@
     "description": "Convert a list of IP addresses to a list on unsigned long integers",
     "type": "project",
     "require": {
+        "phroute/phroute": "^2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.4"
