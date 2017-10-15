@@ -1,4 +1,4 @@
-# iplist2long
+# iplist2long [![Build Status](https://travis-ci.org/JoeNyland/iplist2long.svg?branch=master)](https://travis-ci.org/JoeNyland/iplist2long)
 
 Simple microservice to convert an array of IPs to long integers or the other way around
 
